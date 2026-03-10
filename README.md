@@ -1,4 +1,5 @@
 ##**Adaptive Game Recommendations on Stream using Machine Learning and Community Feedback**
+
 📌 **Project Overview**
 
 The Adaptive Game Recommendation System is designed to suggest games to users during live streaming platforms based on machine learning algorithms and community feedback.
@@ -107,7 +108,7 @@ Adaptive-Game-Recommendation/
 
 Clone the repository
 
-git clone https://github.com/your-username/adaptive-game-recommendation.git
+https://github.com/lingalashilpa/Game-recommedation.git
 
 Navigate to project folder
 
